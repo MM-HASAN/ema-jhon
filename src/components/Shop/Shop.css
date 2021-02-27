@@ -1,0 +1,14 @@
+.shop-container {
+  display: flex;
+}
+.product-container {
+  width: 70%;
+  margin: 0px 10px;
+  border-right: 2px solid grey;
+  background-color: honeydew;
+  padding: 5px;
+}
+.cart-container {
+  background-color: khaki;
+  padding: 5px;
+}
